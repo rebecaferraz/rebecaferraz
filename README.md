@@ -62,7 +62,6 @@
   </table>
 </div>
 
-### 🏙
 <div align="center">
-  <img src="profile-customize.svg" alt="Gráfico de Contribuições em 3D Customizado"/>
+  <img src="https://dragon-greets-you.vercel.app/api?name=Rebeca" alt="Um dragão cumprimentando Rebeca"/>
 </div>
