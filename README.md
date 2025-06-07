@@ -45,16 +45,16 @@
     <tr>
       <td>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RebecaFerraz&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=RebecaFerraz&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&title_color=24292E&text_color=586069&icon_color=24292E" />
-          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RebecaFerraz&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&title_color=24292E&text_color=586069&icon_color=24292E" alt="RebecaFerraz's GitHub Stats" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rebecaferraz&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rebecaferraz&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&title_color=24292E&text_color=586069&icon_color=24292E" />
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rebecaferraz&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&title_color=24292E&text_color=586069&icon_color=24292E" alt="rebecaferraz's GitHub Stats" />
         </picture>
       </td>
       <td>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaFerraz&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=C9D1D9" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaFerraz&layout=compact&theme=transparent&hide_border=true&title_color=24292E&text_color=586069" />
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaFerraz&layout=compact&theme=transparent&hide_border=true&title_color=24292E&text_color=586069" alt="Top Languages" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecaferraz&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=C9D1D9" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecaferraz&layout=compact&theme=transparent&hide_border=true&title_color=24292E&text_color=586069" />
+          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecaferraz&layout=compact&theme=transparent&hide_border=true&title_color=24292E&text_color=586069" alt="Top Languages" />
         </picture>
       </td>
     </tr>
