@@ -28,8 +28,8 @@
 
 #### Google Data Analytics Certificate
 *Status: In Progress*
-<a href="https://www.coursera.org/professional-certificates/google-data-analytics" target="_blank">
-  <img src="https://img.shields.io/badge/Google-Data%20Analytics-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google Data Analytics Certificate"/>
+<br> <a href="https://www.coursera.org/professional-certificates/google-data-analytics" target="_blank">
+  <img src="https://img.shields.io/badge/Google-Data%20Analytics-34A853?style=for-the-badge&logo=google&logoColor=grey" alt="Google Data Analytics Certificate"/>
 </a>
 
 ### Areas of Interest 
