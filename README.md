@@ -61,10 +61,3 @@
     </tr>
   </table>
 </div>
-
-### 🗓️ 
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/RebecaFerraz?template=classic&base.activity.days=365&base.activity.limit=5&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=true&isocalendar.duration=full-year" alt="Calendário Isométrico de Contribuições"/>
-</div>
-
