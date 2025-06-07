@@ -41,39 +41,17 @@
   <img src="https://img.shields.io/badge/Front--end-brightgreen?style=for-the-badge" alt="Front-end"/>
   <img src="https://img.shields.io/badge/iOS-black?style=for-the-badge&logo=apple" alt="iOS"/>
 </p>
- <div align="center">
+
+<div align="center">
 
 <picture>
-  <source 
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=RebecaFerraz&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=RebecaFerraz&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&title_color=24292E&text_color=586069&icon_color=24292E"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=RebecaFerraz&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&title_color=24292E&text_color=586069&icon_color=24292E"
-    alt="RebecaFerraz's GitHub Stats"
-  />
-</picture>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaFerraz&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=C9D1D9"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaFerraz&layout=compact&theme=transparent&hide_border=true&title_color=24292E&text_color=586069"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaFerraz&layout=compact&theme=transparent&hide_border=true&title_color=24292E&text_color=586069"
-    alt="Top Languages"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RebecaFerraz&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=RebecaFerraz&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&title_color=24292E&text_color=586069&icon_color=24292E" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RebecaFerraz&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&title_color=24292E&text_color=586069&icon_color=24292E" alt="RebecaFerraz's GitHub Stats" />
+</picture><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaFerraz&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=C9D1D9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaFerraz&layout=compact&theme=transparent&hide_border=true&title_color=24292E&text_color=586069" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaFerraz&layout=compact&theme=transparent&hide_border=true&title_color=24292E&text_color=586069" alt="Top Languages" />
 </picture>
 
 </div>
-
