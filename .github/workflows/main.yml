@@ -1,0 +1,21 @@
+name: Generate 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi38911/github-profile-3d-contrib@0.7.1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          
+          output: profile-customize.svg 
+        
+          custom_colors: c5f8e2,a1f4cd,c5e2f8,a1cdf4,669cd9
