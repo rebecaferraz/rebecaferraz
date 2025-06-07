@@ -62,17 +62,4 @@
   </table>
 </div>
 
-<table align="center">
-  <tr>
-    <td valign="top">
-      <img src="https://dragon-greets-you.vercel.app/api?name=Rebeca&color=red" alt="Um dragão vermelho cumprimentando Rebeca"/>
-    </td>
-    <td valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RebecaFerraz&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=RebecaFerraz&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&title_color=24292E&text_color=586069&icon_color=24292E" />
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RebecaFerraz&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&title_color=24292E&text_color=586069&icon_color=24292E" alt="RebecaFerraz's GitHub Stats" />
-      </picture>
-    </td>
-  </tr>
-</table>
+
