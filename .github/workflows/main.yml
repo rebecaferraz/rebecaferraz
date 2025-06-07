@@ -1,7 +1,7 @@
 
 name: Generate Snake Animation
 on:
-  # Roda automaticamente a cada 12 horas
+
   schedule:
     - cron: "0 */12 * * *"
  
