@@ -1,7 +1,6 @@
-# 🪄 Hello, I`m Rebeca!
+# 🪄 Hello, I'm Rebeca!
 
 📚 First-year Computer Science student at CESAR School
-
 🫧 Analytical Thinker | Curious Learner | Organizer at Heart
 
 🎠 Away from the keyboard, I enjoy books, music, and the entire GOT universe.
