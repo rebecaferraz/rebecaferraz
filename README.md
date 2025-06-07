@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Google-Data%20Analytics-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google Data Analytics Certificate"/>
 </a>
 
-### Areas of Interest 
+### 🔎 Areas of Interest 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Cybersecurity-blue?style=for-the-badge" alt="Cybersecurity"/>
