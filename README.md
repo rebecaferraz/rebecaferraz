@@ -66,6 +66,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-    <img alt="Animação de cobra das contribuições do GitHub" src="dist/github-snake.svg" />
+    <img alt=src="dist/github-snake.svg" />
   </picture>
 </div>
