@@ -3,10 +3,16 @@
 📚 First-year Computer Science student at CESAR School <br> 🫧 Analytical Thinker | Curious Learner | Organizer at Heart <br> 🎠 Away from the keyboard, I enjoy books, music, and the entire GOT universe. <br> 🤝 Always down to collaborate, learn, and build cool things
 
 
-🔗Connect with me:
+### 🔗 Connect with me
+
 <div align='center'>
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/becaferraz)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ferrazrrebeca@gmail.com)
+  <a href="https://www.linkedin.com/in/becaferraz" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ferrazrrebeca@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </div>
 
 
