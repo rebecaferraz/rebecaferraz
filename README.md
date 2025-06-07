@@ -41,5 +41,5 @@
   <img src="https://img.shields.io/badge/Front--end-brightgreen?style=for-the-badge" alt="Front-end"/>
   <img src="https://img.shields.io/badge/iOS-black?style=for-the-badge&logo=apple" alt="iOS"/>
 </p>
+![ RebecaFerraz GitHub stats](https://github-readme-stats.vercel.app/api?RebecaFerraz=anuraghazra&show_icons=true&theme=transparent)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?RebecaFerraz=anuraghazra&show_icons=true&theme=transparent)
