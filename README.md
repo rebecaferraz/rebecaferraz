@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/iOS-black?style=for-the-badge&logo=apple" alt="iOS"/>
 </p>
 
+<hr/>
 
 <div align="center">
   <table>
