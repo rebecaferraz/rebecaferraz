@@ -40,10 +40,7 @@
 
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rebecaferraz&theme=react-dark&hide_border=true&background=00000000&color=ffffff&line=ffffff&point=ffffff" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rebecaferraz&theme=light&hide_border=true&background=00000000&color=000000&line=000000&point=000000" alt="GitHub Activity Graph" />
-  </picture>
+ 
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rebecaferraz&theme=dark&background=00000000&hide_border=true" />
