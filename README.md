@@ -31,12 +31,10 @@
 
 <hr/>
 
-## 🐍 My Contributions 
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rebecaferraz/rebecaferraz/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div>
-<hr/>
+## My Contributions 
+ <picture>
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/rebecaferraz/rebecaferraz/output/pacman-contribution-graph-dark.svg">
+</picture>
 
 <div align="center">
 
