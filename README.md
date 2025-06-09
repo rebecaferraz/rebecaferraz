@@ -39,13 +39,25 @@
 <hr/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rebecaferraz&theme=transparent" alt="GitHub Activity Graph" />
 
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=rebecaferraz&theme=transparent&background=00000000&border=30A3DC&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rebecaferraz&theme=react-dark&hide_border=true&background=00000000&color=ffffff&line=ffffff&point=ffffff" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rebecaferraz&theme=light&hide_border=true&background=00000000&color=000000&line=000000&point=000000" alt="GitHub Activity Graph" />
+  </picture>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=rebecaferraz&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&rank_icon=github&border_radius=10" height="150" alt="GitHub Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rebecaferraz&theme=dark&background=00000000&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=rebecaferraz&theme=light&background=00000000&hide_border=true" alt="GitHub Streak" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rebecaferraz&show_icons=true&theme=dark&rank_icon=github&hide_border=true&background=00000000" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=rebecaferraz&show_icons=true&theme=graywhite&rank_icon=github&hide_border=true&background=00000000" alt="GitHub Stats" />
+  </picture>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rebecaferraz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&border_radius=10" height="150" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=rebecaferraz&locale=en&layout=compact&theme=dark&hide_border=true&background=00000000" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=rebecaferraz&locale=en&layout=compact&theme=graywhite&hide_border=true&background=00000000" alt="Top Languages" />
+  </picture>
+
 </div>
