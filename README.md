@@ -40,8 +40,6 @@
 
 <div align="center">
 
- 
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rebecaferraz&theme=dark&background=00000000&hide_border=true" />
     <img src="https://streak-stats.demolab.com?user=rebecaferraz&theme=light&background=00000000&hide_border=true" alt="GitHub Streak" />
