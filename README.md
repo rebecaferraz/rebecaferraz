@@ -33,7 +33,7 @@
 
 ## My Contributions 
  <picture>
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/rebecaferraz/rebecaferraz/output/pacman-contribution-graph-dark.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/rebecaferraz/rebecaferraz/output/pacman-contribution-graph.svg">
 </picture>
 
 <div align="center">
