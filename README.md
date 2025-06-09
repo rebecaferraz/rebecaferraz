@@ -50,14 +50,16 @@
     <img src="https://streak-stats.demolab.com?user=rebecaferraz&theme=light&background=00000000&hide_border=true" alt="GitHub Streak" />
   </picture>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rebecaferraz&show_icons=true&theme=dark&rank_icon=github&hide_border=true&background=00000000" />
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=rebecaferraz&show_icons=true&theme=graywhite&rank_icon=github&hide_border=true&background=00000000" alt="GitHub Stats" />
-  </picture>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=rebecaferraz&locale=en&layout=compact&theme=dark&hide_border=true&background=00000000" />
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=rebecaferraz&locale=en&layout=compact&theme=graywhite&hide_border=true&background=00000000" alt="Top Languages" />
-  </picture>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 8px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rebecaferraz&show_icons=true&theme=dark&rank_icon=github&hide_border=true&background=00000000" />
+      <img height="150" src="https://github-readme-stats.vercel.app/api?username=rebecaferraz&show_icons=true&theme=graywhite&rank_icon=github&hide_border=true&background=00000000" alt="GitHub Stats" />
+    </picture>
+    
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=rebecaferraz&locale=en&layout=compact&theme=dark&hide_border=true&background=00000000" />
+      <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=rebecaferraz&locale=en&layout=compact&theme=graywhite&hide_border=true&background=00000000" alt="Top Languages" />
+    </picture>
+  </div>
 
 </div>
