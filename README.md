@@ -25,7 +25,7 @@
 ## 👩🏻‍💻 Currently Learning 
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,cpp,arduino,md,python,git" />
+    <img src="https://skillicons.dev/icons?i=js,git,html,arduino,css,cpp,md,python" />
   </a>
 </p>
 
