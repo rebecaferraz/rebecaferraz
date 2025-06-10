@@ -41,20 +41,11 @@
 ### 🔎 Areas of Interest 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Cybersecurity-61C9A8?style=for-the-badge#gh-dark-mode-only" alt="Cybersecurity"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-3D5B59?style=for-the-badge#gh-light-mode-only" alt="Cybersecurity"/>
-  
-  <img src="https://img.shields.io/badge/Data_Analysis-61C9A8?style=for-the-badge#gh-dark-mode-only" alt="Data Analysis"/>
-  <img src="https://img.shields.io/badge/Data_Analysis-3D5B59?style=for-the-badge#gh-light-mode-only" alt="Data Analysis"/>
-  
-  <img src="https://img.shields.io/badge/Cloud_Computing-61C9A8?style=for-the-badge#gh-dark-mode-only" alt="Cloud Computing"/>
-  <img src="https://img.shields.io/badge/Cloud_Computing-3D5B59?style=for-the-badge#gh-light-mode-only" alt="Cloud Computing"/>
-  
-  <img src="https://img.shields.io/badge/Front--End-61C9A8?style=for-the-badge#gh-dark-mode-only" alt="Front-end"/>
-  <img src="https://img.shields.io/badge/Front--End-3D5B59?style=for-the-badge#gh-light-mode-only" alt="Front-end"/>
-  
-  <img src="https://img.shields.io/badge/iOS_Development-61C9A8?style=for-the-badge&logo=apple&logoColor=black#gh-dark-mode-only" alt="iOS Development"/>
-  <img src="https://img.shields.io/badge/iOS_Development-3D5B59?style=for-the-badge&logo=apple&logoColor=white#gh-light-mode-only" alt="iOS Development"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-9F0000?style=for-the-badge" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/Data_Analysis-9F0000?style=for-the-badge" alt="Data Analysis"/>
+  <img src="https://img.shields.io/badge/Cloud_Computing-9F0000?style=for-the-badge" alt="Cloud Computing"/>
+  <img src="https://img.shields.io/badge/Front--End-9F0000?style=for-the-badge" alt="Front-end"/>
+  <img src="https://img.shields.io/badge/iOS_Development-9F0000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS Development"/>
 </p>
 
 <hr/>
