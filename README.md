@@ -41,11 +41,11 @@
 ### 🔎 Areas of Interest 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Cybersecurity-blue?style=for-the-badge" alt="Cybersecurity"/>
-  <img src="https://img.shields.io/badge/Data-orange?style=for-the-badge" alt="Data"/>
-  <img src="https://img.shields.io/badge/Cloud-blueviolet?style=for-the-badge" alt="Cloud"/>
-  <img src="https://img.shields.io/badge/Front--end-brightgreen?style=for-the-badge" alt="Front-end"/>
-  <img src="https://img.shields.io/badge/iOS-black?style=for-the-badge&logo=apple" alt="iOS"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-3D5B59?style=for-the-badge" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/Data_Analysis-3D5B59?style=for-the-badge" alt="Data Analysis"/>
+  <img src="https://img.shields.io/badge/Cloud_Computing-3D5B59?style=for-the-badge" alt="Cloud Computing"/>
+  <img src="https://img.shields.io/badge/Front--End-3D5B59?style=for-the-badge" alt="Front-end"/>
+  <img src="https://img.shields.io/badge/iOS_Development-3D5B59?style=for-the-badge&logo=apple&logoColor=white" alt="iOS Development"/>
 </p>
 
 <hr/>
