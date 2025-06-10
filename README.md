@@ -3,8 +3,7 @@
 📚 First-year Computer Science student at CESAR School <br> 🫧 Analytical Thinker | Curious Learner | Organizer at Heart <br> 🎠 Away from the keyboard, I enjoy books, music, and the entire GOT universe <br> 🌱 Always down to collaborate, learn, and build cool things
 
 
-### 🔗 Connect with me
-
+### 🔗 Connect with me 
 <div align="right">
   <a href="https://www.linkedin.com/in/becaferraz" target="_blank" style="text-decoration: none; border: none;">
     <picture>
