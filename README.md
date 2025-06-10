@@ -17,11 +17,9 @@
 
 ## 👩🏻‍💻 Currently Learning 
 <p align="left"> 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,html,css,cpp,arduino,md,python,git&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,html,css,cpp,arduino,md,python,git&theme=light" />
-    <img src="https://skillicons.dev/icons?i=js,html,css,cpp,arduino,md,python,git&theme=light" />
-  </picture>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,cpp,arduino,md,python,git" />
+  </a>
 </p>
 
 
