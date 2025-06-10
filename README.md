@@ -18,9 +18,12 @@
 ## 👩🏻‍💻 Currently Learning 
 <p align="left"> 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,html,css,cpp,arduino,md,python,git&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,html,css,cpp,arduino,md,python,git&theme=light" />
-    <img src="https://skillicons.dev/icons?i=js,html,css,cpp,arduino,md,python,git&theme=light" />
+    <!-- Versão dos ícones para o Modo Escuro -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,html,css,cpp,arduino,md,python,git&amp;theme=dark" />
+    <!-- Versão dos ícones para o Modo Claro -->
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,html,css,cpp,arduino,md,python,git&amp;theme=light" />
+    <!-- Imagem padrão caso o navegador não suporte a tag <picture> -->
+    <img src="https://skillicons.dev/icons?i=js,html,css,cpp,arduino,md,python,git&amp;theme=light" />
   </picture>
 </p>
 
