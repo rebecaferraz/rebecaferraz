@@ -33,9 +33,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    
     <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,notion,discord,netlify&theme=dark#gh-dark-mode-only" alt="Tools" />
-    
     <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,notion,discord,netlify&theme=light#gh-light-mode-only" alt="Tools" />
   </a>
 </p>
