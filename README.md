@@ -32,11 +32,8 @@
 ### 🛠️ Tools 
 
 <p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode,git,github,notion,discord,netlify&theme=dark&v=2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode,git,github,notion,discord,netlify&theme=light&v=2" />
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,notion,discord,netlify&theme=light&v=2" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,notion,discord,netlify&theme=dark#gh-dark-mode-only" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,notion,discord,netlify&theme=light#gh-light-mode-only" alt="Tools" />
 </p>
 
 
