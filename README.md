@@ -6,23 +6,23 @@
 
 <div align="right">
 🔗 Connect with me 
-  <a href="https://www.linkedin.com/in/becaferraz" target="_blank" style="text-decoration: none; border: none;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linkedin&theme=light" />
-      <img height="40" src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" />
-    </picture>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:ferrazrrebeca@gmail.com" style="text-decoration: none; border: none;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=gmail&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=gmail&theme=light" />
-      <img height="40" src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail" />
-    </picture>
-  </a>
-</div>
-<hr/>
+    <a href="https://www.linkedin.com/in/becaferraz" target="_blank" style="text-decoration: none; border: none;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linkedin&theme=light" />
+        <img height="40" src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" />
+      </picture>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:ferrazrrebeca@gmail.com" style="text-decoration: none; border: none;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=gmail&theme=dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=gmail&theme=light" />
+        <img height="40" src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail" />
+      </picture>
+    </a>
+  </div>
+  <hr/>
 
 ## 👩🏻‍💻 Currently Learning 
 <p align="left"> 
