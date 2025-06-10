@@ -5,8 +5,7 @@
 
 
 <div align="right">
-   🔗 Connect with me 
-   
+🔗 Connect with me 
   <a href="https://www.linkedin.com/in/becaferraz" target="_blank" style="text-decoration: none; border: none;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linkedin&theme=dark" />
