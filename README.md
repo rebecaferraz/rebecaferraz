@@ -30,11 +30,12 @@
 </p>
 
 ### 🛠️ Tools
-
-<p align="left"> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,notion" />
-  </a>
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode,git,github,notion,discord,netlify&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode,git,github,notion,discord,netlify&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,notion,discord,netlify&theme=light" />
+  </picture>
 </p>
 
 
