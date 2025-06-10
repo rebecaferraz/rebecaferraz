@@ -41,11 +41,11 @@
 ### 🔎 Areas of Interest 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Cybersecurity-9F0000?style=for-the-badge" alt="Cybersecurity"/>
-  <img src="https://img.shields.io/badge/Data_Analysis-9F0000?style=for-the-badge" alt="Data Analysis"/>
-  <img src="https://img.shields.io/badge/Cloud_Computing-9F0000?style=for-the-badge" alt="Cloud Computing"/>
-  <img src="https://img.shields.io/badge/Front--End-9F0000?style=for-the-badge" alt="Front-end"/>
-  <img src="https://img.shields.io/badge/iOS_Development-9F0000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS Development"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-whitesmoke?style=for-the-badge" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/Data_Analysis-whitesmoke?style=for-the-badge" alt="Data Analysis"/>
+  <img src="https://img.shields.io/badge/Cloud_Computing-whitesmoke?style=for-the-badge" alt="Cloud Computing"/>
+  <img src="https://img.shields.io/badge/Front--End-whitesmoke?style=for-the-badge" alt="Front-end"/>
+  <img src="https://img.shields.io/badge/iOS_Development-whitesmoke?style=for-the-badge&logo=apple&logoColor=black" alt="iOS Development"/>
 </p>
 
 <hr/>
