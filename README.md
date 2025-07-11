@@ -40,10 +40,10 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Cybersecurity-whitesmoke?style=for-the-badge" alt="Cybersecurity"/>
-  <img src="https://img.shields.io/badge/Data_Analysis-whitesmoke?style=for-the-badge" alt="Data Analysis"/>
-  <img src="https://img.shields.io/badge/Cloud_Computing-whitesmoke?style=for-the-badge" alt="Cloud Computing"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-whitesmoke?style=for-the-badge" alt="Data Analysis"/>
+  <img src="https://img.shields.io/badge/Cloud%20Computing-whitesmoke?style=for-the-badge" alt="Cloud Computing"/>
   <img src="https://img.shields.io/badge/Front--End-whitesmoke?style=for-the-badge" alt="Front-end"/>
-  <img src="https://img.shields.io/badge/iOS_Development-whitesmoke?style=for-the-badge&logo=apple&logoColor=black" alt="iOS Development"/>
+  <img src="https://img.shields.io/badge/iOS%20Development-whitesmoke?style=for-the-badge&logo=apple&logoColor=black" alt="iOS Development"/>
 </p>
 <hr/>
 
@@ -62,7 +62,7 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rebecaferraz&show_icons=true&theme=dark&rank_icon=github&hide_border=true&background=00000000" />
           <img height="150" src="https://github-readme-stats.vercel.app/api?username=rebecaferraz&show_icons=true&theme=graywhite&rank_icon=github&hide_border=true&background=00000000"
-            
+            
 alt="GitHub Stats" />
         </picture>
       </td>
