@@ -49,25 +49,6 @@
 </p>
 
 <hr/>
-
-## My Contributions 
- <picture>
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/rebecaferraz/rebecaferraz/output/pacman-contribution-graph.svg">
-</picture>
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rebecaferraz&theme=dark&background=00000000&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=rebecaferraz&theme=light&background=00000000&hide_border=true" alt="GitHub Streak" />
-  </picture>
-  
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td valign="top">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rebecaferraz&show_icons=true&theme=dark&rank_icon=github&hide_border=true&background=00000000" />
-          <img height="150" src="https://github-readme-stats.vercel.app/api?username=rebecaferraz&show_icons=true&theme=graywhite&rank_icon=github&hide_border=true&background=00000000"
               
 alt="GitHub Stats" />
         </picture>
