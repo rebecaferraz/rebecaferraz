@@ -1,6 +1,7 @@
 # 🪄 Hellow, I'm Rebeca!
 
-📚 First-year Computer Science student at CESAR School <br> 🫧 Analytical Thinker | Curious Learner | Organizer at Heart <br> <br> 🌱 Always down to collaborate, learn, and build cool things
+📚 First-year Computer Science student at CESAR School <br> 🫧 Analytical Thinker | Curious Learner | Organizer at Heart <br> 
+<br> 🌱 Always down to collaborate, learn, and build cool things
 
 <div align="right">
 <a href="https://www.linkedin.com/in/becaferraz" target="_blank" style="text-decoration: none; border: none;">
@@ -45,22 +46,3 @@
 </p>
 
 <hr/>
-
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td valign="top">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rebecaferraz&show_icons=true&theme=dark&rank_icon=github&hide_border=true&background=00000000" />
-          <img height="150" src="https://github-readme-stats.vercel.app/api?username=rebecaferraz&show_icons=true&theme=graywhite&rank_icon=github&hide_border=true&background=00000000" alt="GitHub Stats" />
-        </picture>
-      </td>
-      <td valign="top">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=rebecaferraz&locale=en&layout=compact&theme=dark&hide_border=true&background=00000000" />
-          <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=rebecaferraz&locale=en&layout=compact&theme=graywhite&hide_border=true&background=00000000" alt="Top Languages" />
-        </picture>
-      </td>
-    </tr>
-  </table>
-</div>
