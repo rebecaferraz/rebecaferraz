@@ -1,6 +1,6 @@
 # 🪄 Hellow, I'm Rebeca!
 
-📚 First-year Computer Science student at CESAR School <br> 🫧 Analytical Thinker | Curious Learner | Organizer at Heart <br> 🎠 Away from the keyboard, I enjoy books, music, and the entire GOT universe <br> 🌱 Always down to collaborate, learn, and build cool things
+📚 First-year Computer Science student at CESAR School <br> 🫧 Analytical Thinker | Curious Learner | Organizer at Heart <br> <br> 🌱 Always down to collaborate, learn, and build cool things
 
 <div align="right">
 <a href="https://www.linkedin.com/in/becaferraz" target="_blank" style="text-decoration: none; border: none;">
@@ -38,7 +38,6 @@
 
 ### 🔎 Areas of Interest
 <p align="left">
-  <img src="https://img.shields.io/badge/Cybersecurity-whitesmoke?style=for-the-badge" alt="Cybersecurity"/>
   <img src="https://img.shields.io/badge/Data%20Analysis-whitesmoke?style=for-the-badge" alt="Data Analysis"/>
   <img src="https://img.shields.io/badge/Cloud%20Computing-whitesmoke?style=for-the-badge" alt="Cloud Computing"/>
   <img src="https://img.shields.io/badge/Front--End-whitesmoke?style=for-the-badge" alt="Front-end"/>
