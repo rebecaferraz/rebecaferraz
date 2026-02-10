@@ -23,7 +23,7 @@
 ## 👩🏻‍💻 Currently Learning
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,js,git,html,css,cpp,md,python" />
+    <img src="https://skillicons.dev/icons?i=arduino,js,git,html,css,md,python" />
   </a>
 </p>
 
