@@ -23,14 +23,14 @@
 ## 👩🏻‍💻 Currently Learning
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,js,git,html,css,md,python" />
+    <img src="https://skillicons.dev/icons?i=arduino,js,html,css,md,python" />
   </a>
 </p>
 
 ### 🛠️ Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,netlify,notion,github,git,discord,&theme=dark#gh-dark-mode-only" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=vscode,netlify,notion,github,discord,&theme=dark#gh-dark-mode-only" alt="Tools" />
   </a>
 </p>
 
