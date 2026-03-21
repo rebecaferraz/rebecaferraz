@@ -23,14 +23,14 @@
 ## 👩🏻‍💻 Currently Learning
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,django,js,html,css,figma" />
+    <img src="https://skillicons.dev/icons?i=c,python,django,js,html,css" />
   </a>
 </p>
 
 ### 🛠️ Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,notion,discord,figma,jira&theme=dark" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,notion,discord,jira&theme=dark" alt="Tools" />
   </a>
 </p>
 
